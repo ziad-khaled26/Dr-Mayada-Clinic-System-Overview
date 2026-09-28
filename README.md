@@ -2,7 +2,7 @@
 
 **A Comprehensive Full-Stack Healthcare Management & Smart Booking Platform**
 
-🔗 **[Live Patient Portal](booking.drmayadaclinic.com)**
+🔗 **[Live Patient Portal](https://booking.drmayadaclinic.com)**
 
 ## 📌 Project Overview
 An advanced, production-grade clinic management system designed to handle complex scheduling constraints, real-time session tracking, and financial operations. Built with a focus on high security, scalable architecture, and seamless user experience across mobile and web interfaces.
